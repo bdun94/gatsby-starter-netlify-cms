@@ -6,7 +6,7 @@ description: This is a log that is testing hello world functionality
 featuredpost: true
 featuredimage: /img/chemex.jpg
 tags:
-  - Test
+  - brewing
 ---
 # Adding some Markdown
 
